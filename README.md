@@ -1,16 +1,12 @@
 <<<<<<< HEAD
-yoyoyoykarem
+Karem
 =====
 
-Our main project for the year
+An independent study from five PCEP students to create an infrastructure-free, open-source software for peer-to-peer file sharing.
 
-This is Klaynadfghedghdfgdgaehe
 =======
-karem
+
+Rohan, Madhav, Adit, Erik, Kalyan
 =====
 
-Our main project for the year
 
-This is Klaynadfghedghdfgdgaehe
-This is bakka
->>>>>>> 8b59e41543d37293c339ca24ac38c7fef9b03823
